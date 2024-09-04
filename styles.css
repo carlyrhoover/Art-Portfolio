@@ -1,3 +1,12 @@
 h1{
     color: blueviolet;
 }
+
+#photo{
+    border: 40px solid antiquewhite;
+    border-width: 20px 15px 85px 15px;
+    height: 250px;
+    width: 375px;
+    margin-bottom: 40px;
+    
+}
