@@ -1,5 +1,6 @@
 h1{
     color: blueviolet;
+    text-shadow: 5px 5px 8px darkslateblue; 
 }
 
 #photo{
@@ -14,8 +15,13 @@ h1{
 
 img{
     border-radius: 8px;
+    height: 250px; 
 }
 
 .layout{
     display: inline-block;
+}
+
+.photoDesc{
+    text-align: center;
 }
