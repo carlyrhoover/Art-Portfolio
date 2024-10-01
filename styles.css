@@ -25,3 +25,8 @@ img{
 .photoDesc{
     text-align: center;
 }
+
+#poem{
+    text-align: center;
+    background-color: antiquewhite;
+}
